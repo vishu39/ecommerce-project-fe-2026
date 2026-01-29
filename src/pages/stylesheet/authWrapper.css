@@ -1,0 +1,20 @@
+.wrapperContainer{
+    height: 100%;
+}
+
+.wrapper_flex{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper_left{
+    background-color: black;
+    height: 100%;
+    width: 60%;
+}
+
+.wrapper_right{
+    height: 100%;
+    flex: 1;
+}
